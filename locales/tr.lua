@@ -1,4 +1,4 @@
-Locales['tr'] = {
+return {
   ['valid_this_purchase'] = 'Değişiklikleri onaylıyor musun?',
   ['yes'] = 'Evet',
   ['no'] = 'Hayır',

@@ -1,4 +1,4 @@
-Locales["hu"] = {
+return {
 	["valid_this_purchase"] = "Megerősíted a vásárlást?",
 	["yes"] = "igen",
 	["no"] = "nem",

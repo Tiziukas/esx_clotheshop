@@ -1,4 +1,4 @@
-Locales['fr'] = {
+return {
   ['valid_this_purchase'] = 'valider cet achat ?',
   ['yes'] = 'oui',
   ['no'] = 'non',
